@@ -103,8 +103,18 @@ input, select {
 
 /* MY CODE BELOW */
 
-h2 {
+.index-h2 {
     color: red;
-    background-color: slategrey;
+    background-color: purple;
 
+}
+
+p {
+    color: blue;
+    border-width: 5px;
+    border: black;
+}
+
+.index-intro p {
+    color: green;
 }
