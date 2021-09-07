@@ -1,3 +1,16 @@
 body {
-    background-color: red;
+    background-color: silver;
+}
+
+h1#title {
+    color: red;
+}
+
+.body-text {
+    color: blue;
+}
+
+.second-para {
+    background-color: seagreen;
+    font-style: italic;
 }
