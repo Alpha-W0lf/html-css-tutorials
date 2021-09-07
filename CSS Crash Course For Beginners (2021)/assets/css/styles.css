@@ -10,6 +10,10 @@ h1#title {
     color: blue;
 }
 
+.body-text strong {
+    background-color: sienna;
+}
+
 .second-para {
     background-color: seagreen;
     font-style: italic;
